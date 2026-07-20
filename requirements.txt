@@ -3,7 +3,7 @@
 
 ansible>=14.1.0
 molecule>=26.6.0
-molecule-plugins[docker]>=25.8.12
+molecule-plugins[docker]>=26.7.15
 docker>=7.1.0
 
 # Linting
