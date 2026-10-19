@@ -2,7 +2,7 @@
 # Install with: pip install -r requirements.txt
 
 ansible>=14.2.0
-molecule>=26.8.0
+molecule>=26.10.0
 molecule-plugins[docker]>=26.9.28
 docker>=7.2.0
 
