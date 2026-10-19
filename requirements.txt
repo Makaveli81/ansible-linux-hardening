@@ -7,5 +7,5 @@ molecule-plugins[docker]>=26.9.28
 docker>=7.2.0
 
 # Linting
-ansible-lint>=26.9.0
+ansible-lint>=26.10.1
 yamllint>=1.38.0
